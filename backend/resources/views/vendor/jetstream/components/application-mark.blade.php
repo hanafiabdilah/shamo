@@ -1,0 +1,1 @@
+<img src="/logo.png" alt="shamo-logo" width="40">

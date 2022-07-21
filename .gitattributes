@@ -1,0 +1,5 @@
+backend/* text=auto
+backend/*.css linguist-vendored
+backend/*.scss linguist-vendored
+backend/*.js linguist-vendored
+backend/CHANGELOG.md export-ignore
